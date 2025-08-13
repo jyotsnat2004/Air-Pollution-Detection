@@ -47,7 +47,7 @@ This project analyzes air pollution using both sensor data and image processing 
 
 ## Notes
 - Adjust thresholds in `detect_pollution` as needed for your dataset and images.
-- For questions or support, contact: vatshayan007@gmail.com
+- For questions or support, contact: jyotsnat2004@gmail.com
 
 ## License
 This project is for educational and research purposes only. 
